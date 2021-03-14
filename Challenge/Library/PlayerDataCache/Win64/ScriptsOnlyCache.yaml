@@ -32,7 +32,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.HorizontalLayoutGroup
     - UnityEngine.UI.Text
   sceneClasses:
-    Assets/Scenes/SampleScene.unity:
+    Assets/Challenge 2 before delete.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -53,15 +53,11 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 70
       Script: {instanceID: 0}
-    - Class: 74
-      Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
     - Class: 82
       Script: {instanceID: 0}
     - Class: 83
-      Script: {instanceID: 0}
-    - Class: 91
       Script: {instanceID: 0}
     - Class: 95
       Script: {instanceID: 0}
@@ -70,23 +66,23 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 600}
     - Class: 114
-      Script: {instanceID: 11814}
+      Script: {instanceID: 11820}
     - Class: 114
-      Script: {instanceID: 12122}
+      Script: {instanceID: 12128}
     - Class: 114
-      Script: {instanceID: 12882}
+      Script: {instanceID: 12888}
     - Class: 114
-      Script: {instanceID: 13084}
+      Script: {instanceID: 13090}
     - Class: 114
-      Script: {instanceID: 14028}
+      Script: {instanceID: 14034}
     - Class: 114
-      Script: {instanceID: 14046}
+      Script: {instanceID: 14052}
     - Class: 114
-      Script: {instanceID: 14272}
+      Script: {instanceID: 14278}
     - Class: 114
-      Script: {instanceID: 14480}
+      Script: {instanceID: 14486}
     - Class: 114
-      Script: {instanceID: 15114}
+      Script: {instanceID: 15120}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -614,5 +610,5 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   platform: 19
   scenePathNames:
-  - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/DariAsh/Desktop/Challenge 2/Challenge 2 Remake/Challenge/Build/Challenge.exe
+  - Assets/Challenge 2 before delete.unity
+  playerPath: C:/Users/DariAsh/Desktop/Challenge 2/Challenge-2/Huggins_DariAsh_DIG3480_CHALLENGE2/Challenge.exe
